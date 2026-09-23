@@ -334,7 +334,8 @@ Employee Performance
 
 Salary & HR Analysis
 
-"Salary & HR Analysis" (<img width="1156" height="706" alt="Attendance   Leave png" src="https://github.com/user-attachments/assets/e53695e3-e836-4282-ba32-7afe4502d188" />
+"Salary & HR Analysis" (<img width="1157" height="660" alt="04_Sales   HR png" src="https://github.com/user-attachments/assets/3e3f92fd-f11d-4159-8226-89e18bf5634c" />
+
 )
 
 ---
